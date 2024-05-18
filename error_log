@@ -1,0 +1,97 @@
+[30-Jan-2024 20:38:35 UTC] Cron reschedule event error for hook: wp_scheduled_delete, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"daily","args":[],"interval":86400}
+[01-Feb-2024 04:03:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pendidikan.ac.id/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/ujianori/pendidikan.ac.id/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pendidikan.ac.id/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pendidikan.ac.id/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pendidikan.ac.id/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pendidikan.ac.id/wp-admin/includes/class-wp-automatic-updater.php(976): wp_mail()
+#5 /home/ujianori/pendidikan.ac.id/wp-admin/includes/class-wp-automatic-updater.php(639): WP_Automatic_Updater->send_email()
+#6 /home/ujianori/pendidikan.ac.id/wp-admin/includes/class-wp-automatic-updater.php(606): WP_Automatic_Updater->after_core_update()
+#7 /home/ujianori/pendidikan.ac.id/wp-includes/update.php(852): WP_Automatic_Updater->run()
+#8 /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update()
+#9 /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/ujianori/pendidikan.ac.id/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/ujianori/pendidikan.ac.id/wp-includes/update.php(292): do_action()
+#12 /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#14 /home/ujianori/pendidikan.ac.id/wp-includes/plugin.php(565): WP_Hook->do_action()
+#15 /home/ujianori/pendidikan.ac.id/wp-cron.php(191): do_action_ref_array()
+#16 {main}
+  thrown in /home/ujianori/pendidikan.ac.id/wp-includes/PHPMailer/PHPMailer.php on line 874
+[06-Feb-2024 13:33:03 UTC] Cron reschedule event error for hook: wpseo-reindex, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"daily","args":[],"interval":86400}
+[23-Feb-2024 18:20:14 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/ujianori/pendidikan.ac.id/wp-admin/includes/update.php on line 154
+[23-Feb-2024 18:20:34 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/ujianori/pendidikan.ac.id/wp-includes/update.php on line 211
+[23-Feb-2024 18:20:54 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/ujianori/pendidikan.ac.id/wp-includes/update.php on line 449
+[23-Feb-2024 18:21:14 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/ujianori/pendidikan.ac.id/wp-includes/update.php on line 730
+[08-Mar-2024 19:17:43 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/ujianori/pendidikan.ac.id/wp-includes/update.php on line 211
+[08-Mar-2024 19:17:45 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/ujianori/pendidikan.ac.id/wp-includes/update.php on line 449
+[08-Mar-2024 19:17:47 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/ujianori/pendidikan.ac.id/wp-includes/update.php on line 730
+[09-Mar-2024 07:22:47 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/ujianori/pendidikan.ac.id/wp-includes/update.php on line 211
+[09-Mar-2024 07:22:50 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/ujianori/pendidikan.ac.id/wp-includes/update.php on line 449
+[09-Mar-2024 07:22:52 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/ujianori/pendidikan.ac.id/wp-includes/update.php on line 730
+[13-Mar-2024 19:08:28 UTC] Cron reschedule event error for hook: wp_delete_temp_updater_backups, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"weekly","args":[],"interval":604800}
+[23-Mar-2024 04:10:27 UTC] Cron reschedule event error for hook: wp_privacy_delete_old_export_files, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"hourly","args":[],"interval":3600}
+[23-Mar-2024 07:32:46 UTC] Cron reschedule event error for hook: wp_scheduled_delete, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"daily","args":[],"interval":86400}
+[25-Mar-2024 03:21:02 UTC] Cron reschedule event error for hook: wp_privacy_delete_old_export_files, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"hourly","args":[],"interval":3600}
+[02-Apr-2024 20:55:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pendidikan.ac.id/wp-includes/PHPMailer/PHPMailer.php:881
+Stack trace:
+#0 /home/ujianori/pendidikan.ac.id/wp-includes/PHPMailer/PHPMailer.php(1972): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pendidikan.ac.id/wp-includes/PHPMailer/PHPMailer.php(1693): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pendidikan.ac.id/wp-includes/PHPMailer/PHPMailer.php(1525): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pendidikan.ac.id/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pendidikan.ac.id/wp-admin/includes/class-wp-automatic-updater.php(976): wp_mail()
+#5 /home/ujianori/pendidikan.ac.id/wp-admin/includes/class-wp-automatic-updater.php(639): WP_Automatic_Updater->send_email()
+#6 /home/ujianori/pendidikan.ac.id/wp-admin/includes/class-wp-automatic-updater.php(606): WP_Automatic_Updater->after_core_update()
+#7 /home/ujianori/pendidikan.ac.id/wp-includes/update.php(852): WP_Automatic_Updater->run()
+#8 /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update()
+#9 /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/ujianori/pendidikan.ac.id/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/ujianori/pendidikan.ac.id/wp-includes/update.php(292): do_action()
+#12 /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#14 /home/ujianori/pendidikan.ac.id/wp-includes/plugin.php(565): WP_Hook->do_action()
+#15 /home/ujianori/pendidikan.ac.id/wp-cron.php(191): do_action_ref_array()
+#16 {main}
+  thrown in /home/ujianori/pendidikan.ac.id/wp-includes/PHPMailer/PHPMailer.php on line 881
+[09-Apr-2024 23:44:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pendidikan.ac.id/wp-includes/PHPMailer/PHPMailer.php:881
+Stack trace:
+#0 /home/ujianori/pendidikan.ac.id/wp-includes/PHPMailer/PHPMailer.php(1972): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pendidikan.ac.id/wp-includes/PHPMailer/PHPMailer.php(1693): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pendidikan.ac.id/wp-includes/PHPMailer/PHPMailer.php(1525): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pendidikan.ac.id/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pendidikan.ac.id/wp-admin/includes/class-wp-automatic-updater.php(976): wp_mail()
+#5 /home/ujianori/pendidikan.ac.id/wp-admin/includes/class-wp-automatic-updater.php(639): WP_Automatic_Updater->send_email()
+#6 /home/ujianori/pendidikan.ac.id/wp-admin/includes/class-wp-automatic-updater.php(606): WP_Automatic_Updater->after_core_update()
+#7 /home/ujianori/pendidikan.ac.id/wp-includes/update.php(852): WP_Automatic_Updater->run()
+#8 /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update()
+#9 /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/ujianori/pendidikan.ac.id/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/ujianori/pendidikan.ac.id/wp-includes/update.php(292): do_action()
+#12 /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#14 /home/ujianori/pendidikan.ac.id/wp-includes/plugin.php(565): WP_Hook->do_action()
+#15 /home/ujianori/pendidikan.ac.id/wp-cron.php(191): do_action_ref_array()
+#16 {main}
+  thrown in /home/ujianori/pendidikan.ac.id/wp-includes/PHPMailer/PHPMailer.php on line 881
+[06-May-2024 19:44:32 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/ujianori/pendidikan.ac.id/wp-includes/update.php on line 211
+[08-May-2024 01:58:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/ujianori/pendidikan.ac.id/wp-includes/PHPMailer/PHPMailer.php:881
+Stack trace:
+#0 /home/ujianori/pendidikan.ac.id/wp-includes/PHPMailer/PHPMailer.php(1972): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/ujianori/pendidikan.ac.id/wp-includes/PHPMailer/PHPMailer.php(1693): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/ujianori/pendidikan.ac.id/wp-includes/PHPMailer/PHPMailer.php(1525): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/ujianori/pendidikan.ac.id/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/ujianori/pendidikan.ac.id/wp-admin/includes/class-wp-automatic-updater.php(976): wp_mail()
+#5 /home/ujianori/pendidikan.ac.id/wp-admin/includes/class-wp-automatic-updater.php(639): WP_Automatic_Updater->send_email()
+#6 /home/ujianori/pendidikan.ac.id/wp-admin/includes/class-wp-automatic-updater.php(606): WP_Automatic_Updater->after_core_update()
+#7 /home/ujianori/pendidikan.ac.id/wp-includes/update.php(852): WP_Automatic_Updater->run()
+#8 /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update()
+#9 /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/ujianori/pendidikan.ac.id/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/ujianori/pendidikan.ac.id/wp-includes/update.php(292): do_action()
+#12 /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#14 /home/ujianori/pendidikan.ac.id/wp-includes/plugin.php(565): WP_Hook->do_action()
+#15 /home/ujianori/pendidikan.ac.id/wp-cron.php(191): do_action_ref_array()
+#16 {main}
+  thrown in /home/ujianori/pendidikan.ac.id/wp-includes/PHPMailer/PHPMailer.php on line 881

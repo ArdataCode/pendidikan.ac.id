@@ -1,0 +1,160 @@
+[25-Feb-2024 18:12:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-http.php on line 11
+[25-Feb-2024 18:13:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-scripts.php on line 18
+[25-Feb-2024 18:13:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-styles.php on line 18
+[25-Feb-2024 18:17:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/ujianori/pendidikan.ac.id/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/pendidikan.ac.id/wp-includes/template-canvas.php on line 12
+[13-Mar-2024 09:17:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-http.php on line 11
+[13-Mar-2024 09:17:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-scripts.php on line 18
+[13-Mar-2024 09:17:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-styles.php on line 18
+[13-Mar-2024 09:18:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/ujianori/pendidikan.ac.id/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/pendidikan.ac.id/wp-includes/template-canvas.php on line 12
+[15-Mar-2024 22:58:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-http.php on line 11
+[15-Mar-2024 22:59:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-scripts.php on line 18
+[15-Mar-2024 22:59:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-styles.php on line 18
+[15-Mar-2024 22:59:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/ujianori/pendidikan.ac.id/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/pendidikan.ac.id/wp-includes/template-canvas.php on line 12
+[16-Mar-2024 22:24:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-http.php on line 11
+[16-Mar-2024 22:24:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-scripts.php on line 18
+[16-Mar-2024 22:24:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-styles.php on line 18
+[16-Mar-2024 22:25:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/ujianori/pendidikan.ac.id/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/pendidikan.ac.id/wp-includes/template-canvas.php on line 12
+[17-Mar-2024 07:00:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-http.php on line 11
+[17-Mar-2024 07:00:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-scripts.php on line 18
+[17-Mar-2024 07:00:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-styles.php on line 18
+[17-Mar-2024 07:00:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/ujianori/pendidikan.ac.id/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/pendidikan.ac.id/wp-includes/template-canvas.php on line 12
+[21-Mar-2024 02:32:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-http.php on line 11
+[21-Mar-2024 02:32:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-scripts.php on line 18
+[21-Mar-2024 02:33:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-styles.php on line 18
+[21-Mar-2024 02:33:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/ujianori/pendidikan.ac.id/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/pendidikan.ac.id/wp-includes/template-canvas.php on line 12
+[21-Mar-2024 06:25:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-http.php on line 11
+[21-Mar-2024 06:25:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-scripts.php on line 18
+[21-Mar-2024 06:26:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-styles.php on line 18
+[21-Mar-2024 06:27:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/ujianori/pendidikan.ac.id/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/pendidikan.ac.id/wp-includes/template-canvas.php on line 12
+[21-Mar-2024 07:16:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-http.php on line 11
+[21-Mar-2024 07:16:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-scripts.php on line 18
+[21-Mar-2024 07:16:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-styles.php on line 18
+[21-Mar-2024 07:16:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/ujianori/pendidikan.ac.id/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/pendidikan.ac.id/wp-includes/template-canvas.php on line 12
+[22-Mar-2024 05:33:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-http.php on line 11
+[22-Mar-2024 05:33:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-scripts.php on line 18
+[22-Mar-2024 05:33:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-styles.php on line 18
+[22-Mar-2024 05:33:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/ujianori/pendidikan.ac.id/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/pendidikan.ac.id/wp-includes/template-canvas.php on line 12
+[06-Apr-2024 03:36:41 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-http.php on line 11
+[06-Apr-2024 03:36:42 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-scripts.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-scripts.php on line 18
+[06-Apr-2024 03:36:42 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Dependencies" not found in /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-styles.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/pendidikan.ac.id/wp-includes/class-wp-styles.php on line 18
+[06-Apr-2024 03:36:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/ujianori/pendidikan.ac.id/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/pendidikan.ac.id/wp-includes/template-canvas.php on line 12

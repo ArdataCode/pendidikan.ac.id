@@ -1,0 +1,40 @@
+[25-Feb-2024 18:21:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/ujianori/pendidikan.ac.id/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/pendidikan.ac.id/wp-includes/blocks/index.php on line 8
+[13-Mar-2024 09:18:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/ujianori/pendidikan.ac.id/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/pendidikan.ac.id/wp-includes/blocks/index.php on line 8
+[15-Mar-2024 22:59:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/ujianori/pendidikan.ac.id/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/pendidikan.ac.id/wp-includes/blocks/index.php on line 8
+[16-Mar-2024 22:26:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/ujianori/pendidikan.ac.id/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/pendidikan.ac.id/wp-includes/blocks/index.php on line 8
+[17-Mar-2024 07:02:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/ujianori/pendidikan.ac.id/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/pendidikan.ac.id/wp-includes/blocks/index.php on line 8
+[21-Mar-2024 02:35:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/ujianori/pendidikan.ac.id/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/pendidikan.ac.id/wp-includes/blocks/index.php on line 8
+[21-Mar-2024 06:29:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/ujianori/pendidikan.ac.id/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/pendidikan.ac.id/wp-includes/blocks/index.php on line 8
+[21-Mar-2024 07:17:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/ujianori/pendidikan.ac.id/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/pendidikan.ac.id/wp-includes/blocks/index.php on line 8
+[22-Mar-2024 05:33:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/ujianori/pendidikan.ac.id/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/pendidikan.ac.id/wp-includes/blocks/index.php on line 8
+[06-Apr-2024 03:36:54 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/ujianori/pendidikan.ac.id/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/pendidikan.ac.id/wp-includes/blocks/index.php on line 8

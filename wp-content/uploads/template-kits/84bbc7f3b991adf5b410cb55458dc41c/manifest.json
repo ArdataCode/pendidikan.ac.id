@@ -1,0 +1,1541 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Voisce - Template Kit for Podcaster",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/webkit.moxcreative.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Host Details",
+            "screenshot": "screenshots\/host-details.jpg",
+            "source": "templates\/host-details.json",
+            "preview_url": "https:\/\/webkit.moxcreative.com\/voisce\/template-kit\/host-details\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/webkit.moxcreative.com\/voisce\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Podcast Detail",
+            "screenshot": "screenshots\/podcast-detail.jpg",
+            "source": "templates\/podcast-detail.json",
+            "preview_url": "https:\/\/webkit.moxcreative.com\/voisce\/template-kit\/podcast-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Podcast",
+            "screenshot": "screenshots\/podcast.jpg",
+            "source": "templates\/podcast.json",
+            "preview_url": "https:\/\/webkit.moxcreative.com\/voisce\/template-kit\/podcast\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Our Hosts",
+            "screenshot": "screenshots\/our-hosts.jpg",
+            "source": "templates\/our-hosts.json",
+            "preview_url": "https:\/\/webkit.moxcreative.com\/voisce\/template-kit\/our-hosts\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Events",
+            "screenshot": "screenshots\/events.jpg",
+            "source": "templates\/events.json",
+            "preview_url": "https:\/\/webkit.moxcreative.com\/voisce\/template-kit\/events\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/webkit.moxcreative.com\/voisce\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/webkit.moxcreative.com\/voisce\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Homepage",
+            "screenshot": "screenshots\/homepage.jpg",
+            "source": "templates\/homepage.json",
+            "preview_url": "https:\/\/webkit.moxcreative.com\/voisce\/template-kit\/homepage\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Error 404",
+            "screenshot": "screenshots\/error-404.jpg",
+            "source": "templates\/error-404.json",
+            "preview_url": "https:\/\/webkit.moxcreative.com\/voisce\/?elementor_library=error-404",
+            "type": "error-404",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "error-404",
+                "elementor_pro_conditions": [
+                    "include\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Error 404\" template for Elementor Pro.",
+                    "This template will display on: 404 Page."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/webkit.moxcreative.com\/voisce\/?elementor_library=single-post",
+            "type": "single-post",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-post",
+                "elementor_pro_conditions": [
+                    "include\/singular\/post"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Post\" template for Elementor Pro.",
+                    "This template will display on: Posts."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/webkit.moxcreative.com\/voisce\/?elementor_library=blog",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: All Archives."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/webkit.moxcreative.com\/voisce\/?elementor_library=footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/webkit.moxcreative.com\/voisce\/?elementor_library=header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.9.0",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Envato Elements",
+            "version": "2.0.12",
+            "file": "envato-elements\/envato-elements.php",
+            "author": "Envato"
+        },
+        {
+            "name": "Skyboot Custom Icons for Elementor - Elementor Icons library",
+            "version": "1.0.6",
+            "file": "skyboot-custom-icons-for-elementor\/skyboot-custom-icons-for-elementor.php",
+            "author": "Skybootstrap"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "3.12.0",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "cheerful-radio-host-laughing-while-recording-podcast-with-colleague.jpg",
+            "thumbnail_url": "https:\/\/webkit.moxcreative.com\/voisce\/wp-content\/uploads\/sites\/30\/2023\/07\/cheerful-radio-host-laughing-while-recording-podcast-with-colleague-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/host-details.json",
+                    "name": "Host Details"
+                },
+                {
+                    "source": "templates\/podcast.json",
+                    "name": "Podcast"
+                }
+            ],
+            "filesize": 123122,
+            "dimensions": [
+                1280,
+                854
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PW68LA7"
+        },
+        {
+            "filename": "Podcaster-2.jpg",
+            "thumbnail_url": "https:\/\/webkit.moxcreative.com\/voisce\/wp-content\/uploads\/sites\/30\/2023\/07\/Podcaster-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/host-details.json",
+                    "name": "Host Details"
+                },
+                {
+                    "source": "templates\/our-hosts.json",
+                    "name": "Our Hosts"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 107510,
+            "dimensions": [
+                700,
+                933
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/handsome-radio-host-in-headphones-gesturing-while--RGZATGM"
+        },
+        {
+            "filename": "two-cheerful-radio-hosts-in-headphones-recording-podcast-in-broadcasting-studio.jpg",
+            "thumbnail_url": "https:\/\/webkit.moxcreative.com\/voisce\/wp-content\/uploads\/sites\/30\/2023\/07\/two-cheerful-radio-hosts-in-headphones-recording-podcast-in-broadcasting-studio-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/host-details.json",
+                    "name": "Host Details"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 131869,
+            "dimensions": [
+                1280,
+                854
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-7V638YY"
+        },
+        {
+            "filename": "two-serious-radio-hosts-talking-while-recording-podcast-in-broadcasting-studio.jpg",
+            "thumbnail_url": "https:\/\/webkit.moxcreative.com\/voisce\/wp-content\/uploads\/sites\/30\/2023\/07\/two-serious-radio-hosts-talking-while-recording-podcast-in-broadcasting-studio-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/host-details.json",
+                    "name": "Host Details"
+                }
+            ],
+            "filesize": 136758,
+            "dimensions": [
+                1280,
+                854
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-8K5PUPV"
+        },
+        {
+            "filename": "man-with-headphones-singing-at-recording-studio-e1688574288626.jpg",
+            "thumbnail_url": "https:\/\/webkit.moxcreative.com\/voisce\/wp-content\/uploads\/sites\/30\/2023\/07\/man-with-headphones-singing-at-recording-studio-e1688574288626-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/host-details.json",
+                    "name": "Host Details"
+                },
+                {
+                    "source": "templates\/podcast.json",
+                    "name": "Podcast"
+                },
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 106281,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PHLVNYL"
+        },
+        {
+            "filename": "Podcaster-5.jpg",
+            "thumbnail_url": "https:\/\/webkit.moxcreative.com\/voisce\/wp-content\/uploads\/sites\/30\/2023\/07\/Podcaster-5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-hosts.json",
+                    "name": "Our Hosts"
+                },
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 111276,
+            "dimensions": [
+                700,
+                933
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/influencer-shooting-video-and-recording-podcast-J9H8LAD"
+        },
+        {
+            "filename": "records-audio-content-or-podcast-for-his-blog-a-serious-adult-european-man-in-a-baseball-cap.jpg",
+            "thumbnail_url": "https:\/\/webkit.moxcreative.com\/voisce\/wp-content\/uploads\/sites\/30\/2023\/07\/records-audio-content-or-podcast-for-his-blog-a-serious-adult-european-man-in-a-baseball-cap-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 122288,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PCUYQNL"
+        },
+        {
+            "filename": "tech-enthusiast-doing-unboxing-review-video-of-new-modern-smartphone-device.jpg",
+            "thumbnail_url": "https:\/\/webkit.moxcreative.com\/voisce\/wp-content\/uploads\/sites\/30\/2023\/07\/tech-enthusiast-doing-unboxing-review-video-of-new-modern-smartphone-device-800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 109555,
+            "dimensions": [
+                1280,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-Y2MDSU3"
+        },
+        {
+            "filename": "signal-1.png",
+            "thumbnail_url": "https:\/\/webkit.moxcreative.com\/voisce\/wp-content\/uploads\/sites\/30\/2023\/07\/signal-1.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 262,
+            "dimensions": [
+                84,
+                48
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/heropatterns.com\/"
+        },
+        {
+            "filename": "Streaming-1.png",
+            "thumbnail_url": "https:\/\/webkit.moxcreative.com\/voisce\/wp-content\/uploads\/sites\/30\/2023\/07\/Streaming-1.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/podcast-detail.json",
+                    "name": "Podcast Detail"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 4021,
+            "dimensions": [
+                300,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/support.google.com\/podcast-publishers\/answer\/9798635?hl=en"
+        },
+        {
+            "filename": "Streaming-5.png",
+            "thumbnail_url": "https:\/\/webkit.moxcreative.com\/voisce\/wp-content\/uploads\/sites\/30\/2023\/07\/Streaming-5.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 2657,
+            "dimensions": [
+                300,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.logo.wine\/"
+        },
+        {
+            "filename": "Streaming-2.png",
+            "thumbnail_url": "https:\/\/webkit.moxcreative.com\/voisce\/wp-content\/uploads\/sites\/30\/2023\/07\/Streaming-2.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/podcast-detail.json",
+                    "name": "Podcast Detail"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 3190,
+            "dimensions": [
+                300,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.logo.wine\/"
+        },
+        {
+            "filename": "Streaming-3.png",
+            "thumbnail_url": "https:\/\/webkit.moxcreative.com\/voisce\/wp-content\/uploads\/sites\/30\/2023\/07\/Streaming-3.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/podcast-detail.json",
+                    "name": "Podcast Detail"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 4295,
+            "dimensions": [
+                300,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.apple.com\/itunes\/marketing-on-podcasts\/identity-guidelines.html#apple-podcasts-lockups"
+        },
+        {
+            "filename": "Streaming-4.png",
+            "thumbnail_url": "https:\/\/webkit.moxcreative.com\/voisce\/wp-content\/uploads\/sites\/30\/2023\/07\/Streaming-4.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/podcast-detail.json",
+                    "name": "Podcast Detail"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 2685,
+            "dimensions": [
+                300,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.logo.wine\/"
+        },
+        {
+            "filename": "signal-2.png",
+            "thumbnail_url": "https:\/\/webkit.moxcreative.com\/voisce\/wp-content\/uploads\/sites\/30\/2023\/07\/signal-2.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/podcast.json",
+                    "name": "Podcast"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 263,
+            "dimensions": [
+                84,
+                48
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/heropatterns.com\/"
+        },
+        {
+            "filename": "happy-woman-enjoying-in-music-over-headphones-outdoors--e1688656801472.jpg",
+            "thumbnail_url": "https:\/\/webkit.moxcreative.com\/voisce\/wp-content\/uploads\/sites\/30\/2023\/07\/happy-woman-enjoying-in-music-over-headphones-outdoors--e1688656801472-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 137773,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-HF9VYXN"
+        },
+        {
+            "filename": "two-podcasters-in-headphones-laughin-while-recording-audio-podcast.jpg",
+            "thumbnail_url": "https:\/\/webkit.moxcreative.com\/voisce\/wp-content\/uploads\/sites\/30\/2023\/07\/two-podcasters-in-headphones-laughin-while-recording-audio-podcast-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/podcast-detail.json",
+                    "name": "Podcast Detail"
+                },
+                {
+                    "source": "templates\/podcast.json",
+                    "name": "Podcast"
+                },
+                {
+                    "source": "templates\/our-hosts.json",
+                    "name": "Our Hosts"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 119409,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-NF6TV5F"
+        },
+        {
+            "filename": "woman-podcaster-podcasting-and-recording-online-talk-show.jpg",
+            "thumbnail_url": "https:\/\/webkit.moxcreative.com\/voisce\/wp-content\/uploads\/sites\/30\/2023\/07\/woman-podcaster-podcasting-and-recording-online-talk-show-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/podcast-detail.json",
+                    "name": "Podcast Detail"
+                },
+                {
+                    "source": "templates\/podcast.json",
+                    "name": "Podcast"
+                },
+                {
+                    "source": "templates\/our-hosts.json",
+                    "name": "Our Hosts"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 119441,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-3GQEY5M"
+        },
+        {
+            "filename": "smiling-young-latin-woman-recording-podcast.jpg",
+            "thumbnail_url": "https:\/\/webkit.moxcreative.com\/voisce\/wp-content\/uploads\/sites\/30\/2023\/07\/smiling-young-latin-woman-recording-podcast-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/podcast-detail.json",
+                    "name": "Podcast Detail"
+                },
+                {
+                    "source": "templates\/podcast.json",
+                    "name": "Podcast"
+                },
+                {
+                    "source": "templates\/our-hosts.json",
+                    "name": "Our Hosts"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 128588,
+            "dimensions": [
+                1280,
+                854
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-YXAV77R"
+        },
+        {
+            "filename": "group-of-people-record-radio-podcast-together-young-friends-talk-during-live-stream-session.jpg",
+            "thumbnail_url": "https:\/\/webkit.moxcreative.com\/voisce\/wp-content\/uploads\/sites\/30\/2023\/07\/group-of-people-record-radio-podcast-together-young-friends-talk-during-live-stream-session-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/podcast-detail.json",
+                    "name": "Podcast Detail"
+                }
+            ],
+            "filesize": 164468,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-J7BWCUQ"
+        },
+        {
+            "filename": "phone-with-music-icon-headphones-blurred-background-music-listening-concept-copy-space-1.jpg",
+            "thumbnail_url": "https:\/\/webkit.moxcreative.com\/voisce\/wp-content\/uploads\/sites\/30\/2023\/07\/phone-with-music-icon-headphones-blurred-background-music-listening-concept-copy-space-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/podcast-detail.json",
+                    "name": "Podcast Detail"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 61488,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-photo\/phone-with-music-icon-headphones-blurred-background-music-listening-concept-copy-space_18869102.htm#query=podcast%20background&position=44&from_view=search&track=ais"
+        },
+        {
+            "filename": "young-asian-woman-and-man-recording-and-working-as-dj-and-podcast-broadcasting-home-studio-concept-e1688629751250.jpg",
+            "thumbnail_url": "https:\/\/webkit.moxcreative.com\/voisce\/wp-content\/uploads\/sites\/30\/2023\/07\/young-asian-woman-and-man-recording-and-working-as-dj-and-podcast-broadcasting-home-studio-concept-e1688629751250-800x320.jpg",
+            "templates": [
+                {
+                    "source": "templates\/podcast.json",
+                    "name": "Podcast"
+                }
+            ],
+            "filesize": 78348,
+            "dimensions": [
+                1280,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-JAHBDZC"
+        },
+        {
+            "filename": "young-speaker-conducting-a-podcast-interview.jpg",
+            "thumbnail_url": "https:\/\/webkit.moxcreative.com\/voisce\/wp-content\/uploads\/sites\/30\/2023\/07\/young-speaker-conducting-a-podcast-interview-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/podcast.json",
+                    "name": "Podcast"
+                }
+            ],
+            "filesize": 119046,
+            "dimensions": [
+                1280,
+                854
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-KL3JSXJ"
+        },
+        {
+            "filename": "podcast-station-with-vlogging-equipment-to-record-sound.jpg",
+            "thumbnail_url": "https:\/\/webkit.moxcreative.com\/voisce\/wp-content\/uploads\/sites\/30\/2023\/07\/podcast-station-with-vlogging-equipment-to-record-sound-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/podcast.json",
+                    "name": "Podcast"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 97868,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-CWJY6JY"
+        },
+        {
+            "filename": "Sponsor-15.png",
+            "thumbnail_url": "https:\/\/webkit.moxcreative.com\/voisce\/wp-content\/uploads\/sites\/30\/2023\/07\/Sponsor-15.png",
+            "templates": [
+                {
+                    "source": "templates\/podcast.json",
+                    "name": "Podcast"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 8669,
+            "dimensions": [
+                300,
+                100
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Sponsor-17.png",
+            "thumbnail_url": "https:\/\/webkit.moxcreative.com\/voisce\/wp-content\/uploads\/sites\/30\/2023\/07\/Sponsor-17.png",
+            "templates": [
+                {
+                    "source": "templates\/podcast.json",
+                    "name": "Podcast"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 5980,
+            "dimensions": [
+                300,
+                100
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Sponsor-13.png",
+            "thumbnail_url": "https:\/\/webkit.moxcreative.com\/voisce\/wp-content\/uploads\/sites\/30\/2023\/07\/Sponsor-13.png",
+            "templates": [
+                {
+                    "source": "templates\/podcast.json",
+                    "name": "Podcast"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 6885,
+            "dimensions": [
+                300,
+                100
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Sponsor-12.png",
+            "thumbnail_url": "https:\/\/webkit.moxcreative.com\/voisce\/wp-content\/uploads\/sites\/30\/2023\/07\/Sponsor-12.png",
+            "templates": [
+                {
+                    "source": "templates\/podcast.json",
+                    "name": "Podcast"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 6351,
+            "dimensions": [
+                300,
+                100
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Sponsor-16.png",
+            "thumbnail_url": "https:\/\/webkit.moxcreative.com\/voisce\/wp-content\/uploads\/sites\/30\/2023\/07\/Sponsor-16.png",
+            "templates": [
+                {
+                    "source": "templates\/podcast.json",
+                    "name": "Podcast"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 4545,
+            "dimensions": [
+                300,
+                100
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Sponsor-18.png",
+            "thumbnail_url": "https:\/\/webkit.moxcreative.com\/voisce\/wp-content\/uploads\/sites\/30\/2023\/07\/Sponsor-18.png",
+            "templates": [
+                {
+                    "source": "templates\/podcast.json",
+                    "name": "Podcast"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 5836,
+            "dimensions": [
+                300,
+                100
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Sponsor-11.png",
+            "thumbnail_url": "https:\/\/webkit.moxcreative.com\/voisce\/wp-content\/uploads\/sites\/30\/2023\/07\/Sponsor-11.png",
+            "templates": [
+                {
+                    "source": "templates\/podcast.json",
+                    "name": "Podcast"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 11979,
+            "dimensions": [
+                300,
+                100
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Sponsor-14.png",
+            "thumbnail_url": "https:\/\/webkit.moxcreative.com\/voisce\/wp-content\/uploads\/sites\/30\/2023\/07\/Sponsor-14.png",
+            "templates": [
+                {
+                    "source": "templates\/podcast.json",
+                    "name": "Podcast"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 9219,
+            "dimensions": [
+                300,
+                100
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "casual-young-woman-wearing-headphone-lying-on-couch-and-using-mobile-phone-.jpg",
+            "thumbnail_url": "https:\/\/webkit.moxcreative.com\/voisce\/wp-content\/uploads\/sites\/30\/2023\/07\/casual-young-woman-wearing-headphone-lying-on-couch-and-using-mobile-phone--800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/podcast.json",
+                    "name": "Podcast"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 103272,
+            "dimensions": [
+                1280,
+                719
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-2W7RHEZ"
+        },
+        {
+            "filename": "T8.jpg",
+            "thumbnail_url": "https:\/\/webkit.moxcreative.com\/voisce\/wp-content\/uploads\/sites\/30\/2023\/07\/T8.jpg",
+            "templates": [
+                {
+                    "source": "templates\/podcast.json",
+                    "name": "Podcast"
+                },
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 100587,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/handsome-man-wearing-stylish-coat-posing-isolated-PCMYESR"
+        },
+        {
+            "filename": "woman-in-a-home-office-records-podcast-audio-content-with-a-microphone-and-headphones-and-a-labrador-e1688553481834.jpg",
+            "thumbnail_url": "https:\/\/webkit.moxcreative.com\/voisce\/wp-content\/uploads\/sites\/30\/2023\/07\/woman-in-a-home-office-records-podcast-audio-content-with-a-microphone-and-headphones-and-a-labrador-e1688553481834-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/podcast.json",
+                    "name": "Podcast"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 140638,
+            "dimensions": [
+                1085,
+                1085
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZR68J53"
+        },
+        {
+            "filename": "young-afro-latin-boy-listens-podcast-with-earphones-outdoors-e1688553330407.jpg",
+            "thumbnail_url": "https:\/\/webkit.moxcreative.com\/voisce\/wp-content\/uploads\/sites\/30\/2023\/07\/young-afro-latin-boy-listens-podcast-with-earphones-outdoors-e1688553330407-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/podcast.json",
+                    "name": "Podcast"
+                },
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 173752,
+            "dimensions": [
+                1230,
+                1230
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-2UFPTH8"
+        },
+        {
+            "filename": "young-woman-blogger-recording-online-podcast-using-professional-sound-equipment-and-laptop-.jpg",
+            "thumbnail_url": "https:\/\/webkit.moxcreative.com\/voisce\/wp-content\/uploads\/sites\/30\/2023\/07\/young-woman-blogger-recording-online-podcast-using-professional-sound-equipment-and-laptop--800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-hosts.json",
+                    "name": "Our Hosts"
+                }
+            ],
+            "filesize": 100120,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-T7WYNZ6"
+        },
+        {
+            "filename": "brick-wall-1.png",
+            "thumbnail_url": "https:\/\/webkit.moxcreative.com\/voisce\/wp-content\/uploads\/sites\/30\/2023\/07\/brick-wall-1.png",
+            "templates": [
+                {
+                    "source": "templates\/our-hosts.json",
+                    "name": "Our Hosts"
+                },
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 201,
+            "dimensions": [
+                42,
+                44
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/heropatterns.com\/"
+        },
+        {
+            "filename": "Podcaster-3.jpg",
+            "thumbnail_url": "https:\/\/webkit.moxcreative.com\/voisce\/wp-content\/uploads\/sites\/30\/2023\/07\/Podcaster-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-hosts.json",
+                    "name": "Our Hosts"
+                },
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 103198,
+            "dimensions": [
+                700,
+                933
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-of-young-man-at-radio-making-podcast-recordi-AVXAT2A"
+        },
+        {
+            "filename": "Podcaster-4.jpg",
+            "thumbnail_url": "https:\/\/webkit.moxcreative.com\/voisce\/wp-content\/uploads\/sites\/30\/2023\/07\/Podcaster-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-hosts.json",
+                    "name": "Our Hosts"
+                },
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 99208,
+            "dimensions": [
+                700,
+                933
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/millennial-woman-singing-and-recording-music-or-po-ET8RNYW"
+        },
+        {
+            "filename": "Podcaster-1.jpg",
+            "thumbnail_url": "https:\/\/webkit.moxcreative.com\/voisce\/wp-content\/uploads\/sites\/30\/2023\/07\/Podcaster-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-hosts.json",
+                    "name": "Our Hosts"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 94675,
+            "dimensions": [
+                700,
+                933
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/male-podcaster-speaking-to-camera-829RU4G"
+        },
+        {
+            "filename": "Podcaster-6.jpg",
+            "thumbnail_url": "https:\/\/webkit.moxcreative.com\/voisce\/wp-content\/uploads\/sites\/30\/2023\/07\/Podcaster-6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-hosts.json",
+                    "name": "Our Hosts"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 101311,
+            "dimensions": [
+                700,
+                933
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-use-microphones-wear-headphones-with-laptop--6BYJ7NU"
+        },
+        {
+            "filename": "podcaster-sitting-in-studio.jpg",
+            "thumbnail_url": "https:\/\/webkit.moxcreative.com\/voisce\/wp-content\/uploads\/sites\/30\/2023\/07\/podcaster-sitting-in-studio-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-hosts.json",
+                    "name": "Our Hosts"
+                }
+            ],
+            "filesize": 114985,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-CWQATAT"
+        },
+        {
+            "filename": "influencers-streaming-a-podcast-at-college-radio-station.jpg",
+            "thumbnail_url": "https:\/\/webkit.moxcreative.com\/voisce\/wp-content\/uploads\/sites\/30\/2023\/07\/influencers-streaming-a-podcast-at-college-radio-station-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                }
+            ],
+            "filesize": 133307,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-8JUHMUY"
+        },
+        {
+            "filename": "couple-recording-podcast-or-broadcasting-interview-on-radio-in-studio-at-home-with-laptop.jpg",
+            "thumbnail_url": "https:\/\/webkit.moxcreative.com\/voisce\/wp-content\/uploads\/sites\/30\/2023\/07\/couple-recording-podcast-or-broadcasting-interview-on-radio-in-studio-at-home-with-laptop-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 136231,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-GKT93BH"
+        },
+        {
+            "filename": "professional-speaker-recording-a-live-podcast.jpg",
+            "thumbnail_url": "https:\/\/webkit.moxcreative.com\/voisce\/wp-content\/uploads\/sites\/30\/2023\/07\/professional-speaker-recording-a-live-podcast-800x522.jpg",
+            "templates": [
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 143564,
+            "dimensions": [
+                1280,
+                835
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-7WSUG9C"
+        },
+        {
+            "filename": "business-podcast-recording.jpg",
+            "thumbnail_url": "https:\/\/webkit.moxcreative.com\/voisce\/wp-content\/uploads\/sites\/30\/2023\/07\/business-podcast-recording-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 153630,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-3XXER2D"
+        },
+        {
+            "filename": "two-people-recording-podcast-side-view.jpg",
+            "thumbnail_url": "https:\/\/webkit.moxcreative.com\/voisce\/wp-content\/uploads\/sites\/30\/2023\/07\/two-people-recording-podcast-side-view-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 100535,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-M6TPYUN"
+        },
+        {
+            "filename": "joyful-multiethnic-woman-recording-live-podcast.jpg",
+            "thumbnail_url": "https:\/\/webkit.moxcreative.com\/voisce\/wp-content\/uploads\/sites\/30\/2023\/07\/joyful-multiethnic-woman-recording-live-podcast-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 108651,
+            "dimensions": [
+                1280,
+                854
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-BDWU99C"
+        },
+        {
+            "filename": "close-up-of-professional-microphone-in-recording-studio.jpg",
+            "thumbnail_url": "https:\/\/webkit.moxcreative.com\/voisce\/wp-content\/uploads\/sites\/30\/2023\/07\/close-up-of-professional-microphone-in-recording-studio-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/error-404.json",
+                    "name": "Error 404"
+                }
+            ],
+            "filesize": 77460,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-X2RE6XM"
+        },
+        {
+            "filename": "podcast-home-studio.jpg",
+            "thumbnail_url": "https:\/\/webkit.moxcreative.com\/voisce\/wp-content\/uploads\/sites\/30\/2023\/07\/podcast-home-studio-800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 96410,
+            "dimensions": [
+                1280,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-YH56CB5"
+        },
+        {
+            "filename": "Logo_Voisce_3.png",
+            "thumbnail_url": "https:\/\/webkit.moxcreative.com\/voisce\/wp-content\/uploads\/sites\/30\/2023\/07\/Logo_Voisce_3.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 15382,
+            "dimensions": [
+                500,
+                114
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/gradient-podcast-logo-template_11187738.htm#query=podcaster%20logo&position=30&from_view=search&track=ais"
+        },
+        {
+            "filename": "Play-Store.png",
+            "thumbnail_url": "https:\/\/webkit.moxcreative.com\/voisce\/wp-content\/uploads\/sites\/30\/2023\/07\/Play-Store-800x264.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 31224,
+            "dimensions": [
+                909,
+                300
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.logo.wine\/"
+        },
+        {
+            "filename": "Apps-Store.png",
+            "thumbnail_url": "https:\/\/webkit.moxcreative.com\/voisce\/wp-content\/uploads\/sites\/30\/2023\/07\/Apps-Store-800x264.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 18938,
+            "dimensions": [
+                909,
+                300
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.logo.wine\/"
+        }
+    ]
+}
